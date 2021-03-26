@@ -1,0 +1,22 @@
+mat-card
+{
+  width: 50%;
+  margin:auto;
+  margin-top: 40px;
+  height: 30%,auto;
+  border-style:ridge;
+}
+
+mat-form-field,input,textarea
+{
+  width:50%
+}
+mat-toolbar
+{
+  background-color: rgb(64, 55, 88);
+  color: white;
+  border-style:double
+}
+mat-form-field{
+  width:100%;
+}
